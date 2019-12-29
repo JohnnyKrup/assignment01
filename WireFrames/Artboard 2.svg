@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="800" width="1280">
+  <g>
+    <rect fill="rgb(0,0,0)" fill-opacity="1" opacity="1" x="0" y="0" width="1280" height="800"/>
+    <g opacity="1">
+      <rect fill="rgb(255,255,255)" fill-opacity="1" opacity="1" x="0" y="0" width="1280" height="77"/>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(610, 24)">
+        <tspan font-size="20" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(51,51,51)" x="0" y="21">HOME</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(711, 28)">
+        <tspan font-size="20" font-family="Arial" font-weight="700" style="white-space: pre;text-transform: none" fill="rgb(123,11,11)" x="0" y="18">ABOUT</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(230, 221)">
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="20">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="45">incididunt ut labore et dolore magna aliqua. Eu consequat ac felis donec et. Non </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="70">sodales neque sodales ut etiam. </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="95">Et netus et malesuada fames ac turpis egestas sed tempus. Ut venenatis tellus in </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="120">metus vulputate eu scelerisque felis. Non blandit massa enim nec dui nunc mattis </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="145">enim ut. Tempus imperdiet nulla malesuada pellentesque. Nibh cras pulvinar </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="170">mattis nunc sed blandit. Porta lorem mollis aliquam ut porttitor leo. Velit aliquet </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="195">sagittis id consectetur purus ut faucibus pulvinar. Tempus egestas sed sed risus.</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(230, 504)">
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="20">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="45">incididunt ut labore et dolore magna aliqua. Eu consequat ac felis donec et. Non </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="70">sodales neque sodales ut etiam. Et netus et malesuada fames ac turpis egestas </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="95">sed tempus. Ut venenatis tellus in metus vulputate eu scelerisque felis. </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="120">Non blandit massa enim nec dui nunc mattis enim ut. Tempus imperdiet nulla </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="145">malesuada pellentesque. Nibh cras pulvinar mattis nunc sed blandit. </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="170">Porta lorem mollis aliquam ut porttitor leo. Velit aliquet sagittis id consectetur </tspan>
+        <tspan font-size="22.5625" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(123,136,152)" x="0" y="195">purus ut faucibus pulvinar. Tempus egestas sed sed risus.</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(497, 24)">
+        <tspan font-size="20" font-family="Arial" font-weight="400" style="white-space: pre;text-transform: none" fill="rgb(51,51,51)" x="0" y="21">STORE</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(230, 176)">
+        <tspan font-size="36" font-family="Frutiger Next Pro" font-weight="400" style="white-space: pre;text-transform: uppercase" fill="rgb(79,79,79)" x="0" y="26">About NextGen Energy</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <text font-size="0" transform="translate(230, 458)">
+        <tspan font-size="36" font-family="Frutiger Next Pro" font-weight="400" style="white-space: pre;text-transform: uppercase" fill="rgb(79,79,79)" x="0" y="26">Early Days</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
